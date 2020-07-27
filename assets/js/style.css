@@ -1,0 +1,9 @@
+.socialicon:hover {
+    box-shadow: 0 0 11px rgba(33, 33, 33, .5);
+}
+
+@media (max-width: 767px) {
+    .socialicon {
+        margin-bottom: 20px;
+    }
+}
