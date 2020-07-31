@@ -20,4 +20,7 @@ header {
     .socialicon {
         margin-bottom: 24px;
     }
+    #sm-center {
+        text-align: center;
+    }
 }
