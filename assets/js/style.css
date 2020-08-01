@@ -24,7 +24,7 @@ header {
 }
 
 .myb {
-    /* border: 1px solid black; */
+    border: 5px solid black;
     /* background-color: white; */
 }
 
@@ -36,5 +36,14 @@ header {
     }
     #sm-center {
         text-align: center;
+    }
+}
+
+@media (min-width: 1200px) {
+    .aside-l-lg {
+        float: left;
+    }
+    .aside-r-lg {
+        float: right;
     }
 }
