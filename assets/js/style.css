@@ -33,7 +33,7 @@ header {
 
 .ripple {
     background-position: center;
-    transition: background 0.6s;
+    transition: background 0.8s;
 }
 
 .ripple:hover {
@@ -44,7 +44,7 @@ header {
 .ripple:active {
     background-color: #bebebe;
     background-size: 100%;
-    transition: background 0s;
+    transition: background 50s;
 }
 
 /* ----------- Responsiveness on small screen ---------- */
