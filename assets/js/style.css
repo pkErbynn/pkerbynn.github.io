@@ -38,7 +38,8 @@ header {
 
 .ripple:hover {
   /* 2nd color == header color */
-  background: #fcfcfc
+  /* 1st color == #e5e8eb */
+  background: #eff1f3
     radial-gradient(circle, transparent 1%, rgb(207, 201, 201) 1%) center/15000%;
 }
 
