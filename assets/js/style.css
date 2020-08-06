@@ -63,8 +63,8 @@ header {
     margin: 0px;
   }
   #profile{
-    max-height: 250px;
-    width: 200px
+    max-height: 220px;
+    max-width: 180px
   }
 }
 
