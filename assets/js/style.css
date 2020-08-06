@@ -54,13 +54,17 @@ header {
 
 @media (max-width: 767px) {
   .socialicon {
-    margin-bottom: 24px;
+    margin-bottom: 10px;
   }
   #sm-center {
     text-align: center;
   }
   .hobbyicon {
     margin: 0px;
+  }
+  #profile{
+    max-height: 250px;
+    width: 200px
   }
 }
 
