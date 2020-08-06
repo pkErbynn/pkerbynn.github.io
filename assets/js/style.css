@@ -59,6 +59,9 @@ header {
   #sm-center {
     text-align: center;
   }
+  .hobbyicon {
+    margin: 0px;
+  }
 }
 
 @media (min-width: 1200px) {
