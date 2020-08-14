@@ -56,7 +56,7 @@ body {
   font-family: 'Mukta Malar', sans-serif;
 }
 
-#section {
+.psection {
   padding: 12vh;
   width: 80%;
   max-width: 960px;
@@ -65,27 +65,17 @@ body {
   margin-bottom: 3em;
 }
 
-.scard {
-  margin: 1.5%;
-  width: 30%;
-  text-align: center;
-  background: white;
-  border: 1px solid black;
-  width: 100%;
 
+   
+.gcard { width: 100%; }
+
+.grid-parent {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: 1fr 2fr;
+  grid-gap: 1em;
 }
-  .simg {
-    max-width: 100%;
-  }
   
-  .sp {
-    padding: .5em;
-    margin: 0;
-  }
-
-    .flex-parent {
-      display: flex;
-    }
   
 /* ----------- Responsiveness on small screen ---------- */
 
