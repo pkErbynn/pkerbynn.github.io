@@ -52,9 +52,41 @@ header {
   transition: background 50s;
 }
 
-
 body {
-  font-family: 'Mukta Malar', sans-serif;}
+  font-family: 'Mukta Malar', sans-serif;
+}
+
+#section {
+  padding: 12vh;
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+  box-shadow: 0 .5em 2em rgba(black, .3);
+  margin-bottom: 3em;
+}
+
+.scard {
+  margin: 1.5%;
+  width: 30%;
+  text-align: center;
+  background: white;
+  border: 1px solid black;
+  width: 100%;
+
+}
+  .simg {
+    max-width: 100%;
+  }
+  
+  .sp {
+    padding: .5em;
+    margin: 0;
+  }
+
+    .flex-parent {
+      display: flex;
+    }
+  
 /* ----------- Responsiveness on small screen ---------- */
 
 @media (max-width: 767px) {
