@@ -47,7 +47,6 @@ header {
 .ripple:active {
   background-color: #bebebe;
   background-size: 100%;
-  /* default => 0s */
   transition: background 0s;
 }
 
