@@ -21,7 +21,6 @@ header {
   overflow: hidden;
   box-shadow: 0 0.5em 2em rgba(0, 0, 0, 0.2);
   /* box-shadow: 0 3px 6px 0px rgba(0, 0, 0, 0.2); */
-  /* box-shadow: 0 .5em 2em rgba(black, .3); */
   border-radius: 5.5px;
 }
 
@@ -34,7 +33,7 @@ header {
 
 .ripple {
   background-position: center;
-  transition: background 0.8s;
+  transition: background 0.5s;
 }
 
 .ripple:hover {
