@@ -3,6 +3,7 @@ body {
   font-family: "Mukta Malar", sans-serif;
 }
 
+/* ============ Header Section =========== */
 header {
   background: rgb(207, 201, 201);
   position: sticky;
@@ -17,8 +18,8 @@ header {
   filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.3));
 }
 
-/* ======= About Tab =====  */
 
+/* ======= About Tab =====  */
 .card {
   background: #fff;
   overflow: hidden;
@@ -73,7 +74,6 @@ header {
 
 
 /* ======= Blog Tab =====  */
-
 .grid-parent {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -87,7 +87,6 @@ header {
 
 
 /* ----------- Responsiveness on small screen ---------- */
-
 @media (max-width: 767px) {
   .socialicon {
     margin-bottom: 5px;
