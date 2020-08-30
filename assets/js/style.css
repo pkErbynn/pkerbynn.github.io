@@ -17,6 +17,8 @@ header {
   filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.3));
 }
 
+/* ======= About Tab =====  */
+
 .card {
   background: #fff;
   overflow: hidden;
@@ -58,18 +60,7 @@ header {
   margin-bottom: 3em;
 }
 
-.gcard {
-  width: 100%;
-}
-
-.grid-parent {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-template-rows: 1fr 2fr;
-  grid-gap: 1em;
-}
-
-/* Repo button */
+/* github repo button */
 .repo {
   color: #7797bd;
   border-color: #7797bd;  /* #b3b0b0 */ 
@@ -79,6 +70,21 @@ header {
   background: #6c757d;
   color: #fff;
 }
+
+
+/* ======= Blog Tab =====  */
+
+.grid-parent {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: 1fr 2fr;
+  grid-gap: 1em;
+}
+
+.gcard {
+  width: 100%;
+}
+
 
 /* ----------- Responsiveness on small screen ---------- */
 
