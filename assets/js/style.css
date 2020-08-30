@@ -75,7 +75,8 @@ body {
 
 .repo {
   color: #7797bd;
-  border-color: #b3b0b0;
+
+  border-color: #7797bd;  /* #b3b0b0 */
 }
 
 .repo:hover {
