@@ -101,6 +101,9 @@ header {
     max-height: 200px;
     max-width: 150px;
   }
+  #z{
+    float: right;
+  }
 }
 
 @media (min-width: 1200px) {
