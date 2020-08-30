@@ -73,11 +73,11 @@ body {
   grid-gap: 1em;
 }
 
+
+/* Repo button */
 .repo {
   color: #7797bd;
-
-  border-color: #7797bd;  /* #b3b0b0 */
-  
+  border-color: #7797bd;  /* #b3b0b0 */ 
 }
 
 .repo:hover {
