@@ -81,10 +81,6 @@ header {
   grid-gap: 1em;
 }
 
-.gcard {
-  width: 100%;
-}
-
 
 /* ----------- Responsiveness on small screen ---------- */
 @media (max-width: 767px) {
