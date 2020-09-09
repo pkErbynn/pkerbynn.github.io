@@ -72,7 +72,14 @@ header {
   color: #fff;
 }
 
-
+.myrow{
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
 /* ======= Blog Tab =====  */
 .grid-parent {
   display: grid;
