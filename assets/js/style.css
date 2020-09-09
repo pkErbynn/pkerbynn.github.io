@@ -72,14 +72,7 @@ header {
   color: #fff;
 }
 
-.myrow{
-  align-items: stretch;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  overflow-y: hidden;
-}
+
 /* ======= Blog Tab =====  */
 .grid-parent {
   display: grid;
@@ -109,6 +102,25 @@ header {
   }
 }
 
+@media (max-width: 991px) {
+  .project-card{
+    display: flex;
+  }
+}
+
+/* medium screen */
+@media (min-width: 992px) {
+  .myrow{
+    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+}
+
+/* large screen */
 @media (min-width: 1200px) {
   .aside-l-lg {
     float: left;
