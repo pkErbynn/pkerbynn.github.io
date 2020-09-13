@@ -81,10 +81,6 @@ header {
   margin-bottom: 3em;
 }
 
-.sizeup{
-  max-height: 620px;
-}
-
 
 /* ----------- Responsiveness on small screen ---------- */
 @media (max-width: 767px) {
