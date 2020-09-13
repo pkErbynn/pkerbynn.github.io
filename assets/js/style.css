@@ -52,15 +52,6 @@ header {
   transition: background 0s;
 }
 
-.psection {
-  /* padding: 12vh; */
-  width: 100%;  /*80 */
-  max-width: 960px;
-  margin: 0 auto;
-  box-shadow: 0 0.5em 2em rgba(black, 0.3);
-  margin-bottom: 3em;
-}
-
 /* github repo button */
 .repo {
   color: #7797bd;
@@ -79,6 +70,19 @@ header {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-template-rows: 1fr 2fr;
   grid-gap: 1em;
+}
+
+.psection {
+  /* padding: 12vh; */
+  width: 100%;  /*80 */
+  max-width: 960px;
+  margin: 0 auto;
+  box-shadow: 0 0.5em 2em rgba(black, 0.3);
+  margin-bottom: 3em;
+}
+
+.sizeup{
+  max-height: 620px;
 }
 
 
