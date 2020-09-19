@@ -33,14 +33,6 @@ header {
   background-color: rgba(13, 152, 186, 0.43);
 }
 
-#tranparenBackgroundContent{
-  position: relative;
-  /* color: #ffffff;   */
-  /* font-size: 14rem; */
-  /* line-height: 0.9; */
-  /* text-align: center; */
-}
-
 .socialicon:hover {
   /* drop-shadow: 0 0 11px rgba(33, 33, 33, .5); */
   filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.3));
