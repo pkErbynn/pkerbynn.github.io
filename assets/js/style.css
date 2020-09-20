@@ -19,7 +19,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('/assets/images/program1.jpg');
+  background-image: url('/assets/images/header-bg-image.jpg');
   background-size: cover;
 }
 
