@@ -73,6 +73,14 @@ header {
   transition: background 0s;
 }
 
+.reduceMarginBottom{
+  margin-bottom: 0.0rem!important;
+}
+
+p .bage{
+  margin-bottom: 0.0rem!important;
+}
+
 .eduMarginPush{
   margin-left: 1.8rem!important;
 }
