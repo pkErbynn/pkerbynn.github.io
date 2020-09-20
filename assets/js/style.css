@@ -64,7 +64,6 @@ header {
 
 .ripple:hover {
   background: #eff1f3;
-  /* radial-gradient(circle, transparent 1%, rgb(207, 201, 201) 1%) center/15000%; */
 }
 
 .ripple:active {
@@ -74,11 +73,7 @@ header {
 }
 
 .reduceMarginBottom{
-  margin-bottom: 0.0rem!important;
-}
-
-p .bage{
-  margin-bottom: 0.0rem!important;
+  margin-bottom: 0.3rem!important;
 }
 
 .eduMarginPush{
