@@ -75,6 +75,7 @@ header {
 .reduceMarginBottom{
   margin-bottom: 0.3rem!important;
   font-size: 18px!important;
+  line-height: 1.2;
 }
 
 .eduMarginPush{
