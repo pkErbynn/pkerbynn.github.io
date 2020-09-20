@@ -19,6 +19,8 @@ This is my personal website/portfolio with all the relevant information about me
 My portfolio webiste with work and volunteer experience, projects, education history and other relevant information about me.
 
 ## Screenshots
+  <img src="images/email-alert.png" width="600">
+
 
 ## Features
 About Me
@@ -43,24 +45,25 @@ Font Awesome
 - Web Browser [Chrome, Firefox]
 
 ### Setup
-- Clone this repository: `$ git clone https://github.com/pkerbynn/pkerbynn.github.io`
-- Navigate into the directory: `$ cd pkerbynn.github.io.git`
-- Double click index.html file
+1 Clone this repository
+  ```
+  $ git clone https://github.com/pkerbynn/pkerbynn.github.io
+  ```
+2 Navigate into the directory 
+  ```
+  $ cd pkerbynn.github.io.git
+  ```
+3 Double click to open `index.html` file
 
 ## Status
 Project is: in progress
 
 ## Inspiration
-This project was to improve my online presence.
+  This project was to improve my online presence.
 
-Contact
-Created by PKay Erbynn - feel free to contact me!
-
-License
-You can check out the full license here
-
-This project is licensed under the terms of the MIT license.
-
+## Developer
+  This project was created by PK Erbynn [send mail](john.erbynn@gmail.com) - feel free to contact me!
+   
 ## Contributing
 - Fork it (https://github.com/pkerbynn/pkerbynn.github.io)
 - Create your feature branch (git checkout -b MY_BRANCH_NAME)
