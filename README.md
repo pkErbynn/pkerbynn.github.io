@@ -62,7 +62,7 @@ Project is: in progress
 This project is to improve my online presence.
 
 ## Contact
-This project was created by PK Erbynn [send mail](john.erbynn@gmail.com) - feel free to contact me!
+This project was created by [PK Erbynns](john.erbynn@gmail.com) - feel free to contact me!
    
 ## Contributing
 - Fork it (https://github.com/pkerbynn/pkerbynn.github.io)
