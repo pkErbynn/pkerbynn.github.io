@@ -63,8 +63,6 @@ header {
 }
 
 .ripple:hover {
-  /* 2nd color == header color */
-  /* 1st color == #e5e8eb */
   background: #eff1f3;
   /* radial-gradient(circle, transparent 1%, rgb(207, 201, 201) 1%) center/15000%; */
 }
@@ -103,7 +101,7 @@ header {
   grid-gap: 1em;
 }
 
-.psection {
+.blogSection {
   /* padding: 12vh; */
   width: 100%;  /*80 */
   max-width: 960px;
