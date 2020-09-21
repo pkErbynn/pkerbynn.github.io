@@ -18,7 +18,7 @@ This is my personal website/portfolio with all the relevant information about me
 My portfolio webiste with having projects, education history and other relevant information about me.
 
 ## Screenshots
-<img src="images/email-alert.png" width="600">
+<img src="assets/images/screencapture.png" width="600">
 
 ## Features
 - About Me
