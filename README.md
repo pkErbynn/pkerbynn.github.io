@@ -8,7 +8,7 @@ This is my personal website/portfolio with all the relevant information about me
 - Screenshots
 - Features
 - Technologies
-- Setup
+- Usage/Setup
 - Status
 - Inspiration
 - Contact
@@ -67,6 +67,6 @@ This project was created by [PK Erbynns](john.erbynn@gmail.com) - feel free to c
 ## Contributing
 - Fork it (https://github.com/pkerbynn/pkerbynn.github.io)
 - Create your feature branch (git checkout -b MY_BRANCH_NAME)
-- Make changes and commit (git commit -am 'Add some fooBar')
+- Make changes and commit (git commit -am 'add some fooBar')
 - Push to the branch (git push origin MY_BRANCH_NAME)
 - Create a new **Pull Request**
