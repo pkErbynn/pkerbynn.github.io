@@ -73,6 +73,10 @@ header {
   transition: background 0s;
 }
 
+.ripple a:hover {
+  text-decoration: underline;
+}
+
 .ripple a:link {
   text-decoration: none;
 }
