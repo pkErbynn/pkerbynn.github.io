@@ -42,7 +42,7 @@ header {
 /* ===== MAIN BODY ======*/
 
 /* ==== background image ==== */
-.bg-image {
+/* .bg-image {
   background-image: url("../images/myself-icon.png");
   -webkit-background-size: cover;
   background-size: cover;
@@ -54,7 +54,7 @@ header {
   position: fixed;
   left: 0;
   right: 0;
-}
+} */
 
 /* ======= About Tab =====  */
 .card {
