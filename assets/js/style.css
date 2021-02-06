@@ -60,9 +60,9 @@ header {
 /* ======= Tabs =====  */
 
 .nav-link.active {
-  color: rgb(250, 250, 250) !important;
+  color: rgb(233, 233, 233) !important;
   background-color: rgb(10, 120, 148)  !important;
-  border: 0px !important;
+  border: 4px rgb(10, 120, 148) !important;
 }
 
 .nav-tabs {
