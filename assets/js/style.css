@@ -157,6 +157,14 @@ header {
   color: rgb(91, 37, 98)
 }
 
+.blogSection .card-title{
+  color:  rgb(10, 120, 148) 
+}
+
+.blogSection .card-text{
+  color: #212529 !important
+}
+
 
 /* ----------- Responsiveness on small screen ---------- */
 @media (max-width: 767px) {
