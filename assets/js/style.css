@@ -147,7 +147,7 @@ header {
 }
 
 .blogSection {
-  width: 100%;  /*80 */
+  width: 100%;
   max-width: 960px;
   margin: 0 auto;
   /* box-shadow: 0 0.5em 2em rgba(black, 0.3); */
@@ -157,11 +157,6 @@ header {
 .blogSection .card {
   max-width: 100%;
 }
-
-.blogSection .card:hover {
-  cursor: pointer;
-}
-
 
 .blogSection .card-title {
   color:  rgb(10, 120, 148) !important
