@@ -79,7 +79,7 @@ header {
   border-radius: 5.5px;
 }
 
-.cardTitleColor{
+.cardTitleColor {
   color:  rgb(10, 120, 148) 
 }
 
@@ -93,7 +93,6 @@ header {
   background-position: center;
   transition: background 0.5s;
 }
-
 
 .ripple:hover {
   background: #eff1f3;
@@ -113,17 +112,17 @@ header {
   text-decoration: none;
 }
 
-.reduceMarginBottom{
+.reduceMarginBottom {
   margin-bottom: 0.3rem!important;
   font-size: 18px!important;
   line-height: 1.2;
 }
 
-.eduMarginPush{
+.eduMarginPush {
   margin-left: 1.8rem!important;
 }
 
-.eduNoMarginPadding{
+.eduNoMarginPadding {
   padding: 0px; margin:0px;
 }
 
@@ -158,6 +157,11 @@ header {
 .blogSection .card {
   max-width: 100%;
 }
+
+.blogSection .card:hover {
+  cursor: pointer;
+}
+
 
 .blogSection .card-title {
   color:  rgb(10, 120, 148) !important
