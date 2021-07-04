@@ -170,6 +170,11 @@ header {
 
 .blogSection .card-text {
   color: #212529 !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
 
 
