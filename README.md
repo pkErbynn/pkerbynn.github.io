@@ -1,7 +1,7 @@
 # pkerbynn.github.io
 This is my personal website/portfolio with all the relevant information about me :blush:
 
-[Demo](https://www.pkerbynn.github.io)
+[Demo](https://pkerbynn.github.io/)
 
 ## Table of contents
 - General info
